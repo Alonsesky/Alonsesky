@@ -22,9 +22,20 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,github,figma,notion,postman,stackoverflow)](https://skillicons.dev)
 
 <br>
-<img src="https://media.giphy.com/media/zhRA0okWxTGiu78uSk/giphy.gif" width="250" height="207" alt="GIF de The Office">
-        
 
+<table width="100%">
+        <tr>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alonsesky&layout=donut&theme=holi&bg_color=00000000&title_color=4493f8&text_color=4493f8&icon_color=4493f8"" alt="Top Langs">    
+            </td> 
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api?username=Alonsesky&show_icons=true&theme=holi&bg_color=00000000&title_color=4493f8&text_color=4493f8&icon_color=4493f8"" alt="Estadísticas de GitHub de Alonsesky">            
+            </td>
+        </tr>
+</table>
+<br>    
 
-
+<div align="center">
+    <img src="https://media.giphy.com/media/zhRA0okWxTGiu78uSk/giphy.gif" width="350" height="307" alt="GIF de The Office">
+</div>
 
