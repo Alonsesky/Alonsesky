@@ -10,8 +10,8 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js)](https://skillicons.dev)
 
  <!--Subtitulo 2-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=38&duration=2000&pause=1000&color=FFFFFF&vCenter=true&width=1280&lines=Otras+Tecnolog%C3%ADas%3A;Python;Django+-+Flask;Sklearn+-+Pandas+-+Numpy+-+Matplotlib;Angular+-+React;Typescript+-+Jquery" alt="Typing SVG" /></a>
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,django,ts,angular,react)](https://skillicons.dev)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=38&duration=2000&pause=1000&color=FFFFFF&vCenter=true&width=1280&lines=Otras+Tecnolog%C3%ADas%3A;Python;Django+-+Flask;Sklearn+-+Pandas+-+Numpy+-+Matplotlib;Angular;Typescript+-+Jquery" alt="Typing SVG" /></a>
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,django,ts,angular)](https://skillicons.dev)
 
  <!--Subtitulo 3-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=38&duration=2000&pause=1000&color=FFFFFF&vCenter=true&width=1280&lines=Base+de+Datos%3A;Oracle+SQL;MySql;Firebase" alt="Typing SVG" /></a>
