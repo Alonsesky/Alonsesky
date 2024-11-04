@@ -1,7 +1,7 @@
 <!--Head-->
 <table>
     <tr>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=60&duration=2000&pause=1000&color=4493F8&center=true&vCenter=true&width=1280&height=80&lines=Bienvenido!+Soy+Alonso!;Desarrollador+Backend+en+Spring+Boot;Aprendiz+en+Data+Science" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=60&duration=2000&pause=1000&color=4493F8&center=true&vCenter=true&width=1280&height=80&lines=Bienvenido!+Soy+Alonso!;Aprendiz+de+Ciberseguridad+(Pentesting);Aprendiz+en+Data+Science" alt="Typing SVG" /></a>
     </tr>
 </table>
 <!--Subtitulo 1-->
@@ -19,7 +19,7 @@
  <br>
  <!--Subtitulo 4-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=38&duration=2000&pause=1000&color=FFFFFF&vCenter=true&width=1280&lines=Herramientas+Utilizadas%3A" alt="Typing SVG" /></a>
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,github,figma,notion,postman,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,github,figma,notion,postman,stackoverflow,linux)](https://skillicons.dev)
 
 <br>
 
