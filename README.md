@@ -7,9 +7,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <!--Subtitulo 1-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=38&duration=2000&pause=1000&color=FFFFFF&vCenter=true&width=1280&lines=Desarrollo+Mobile;Angular;Typescript;React+Native" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=38&duration=2000&pause=1000&color=FFFFFF&vCenter=true&width=1280&lines=Desarrollo+Mobile;Angular;Typescript;Tailwind;React+Native" alt="Typing SVG" /></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" height="40"/>
-[![My Skills](https://skillicons.dev/icons?i=angular,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,typescript,tailwind)](https://skillicons.dev)
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
